@@ -1,8 +1,7 @@
-<h1 style="font-size:10px">Hello! I'm Rami 👋</h1>
+<h1>Hello! I'm Rami 👋</h1>
 
 [![Social banner for ramiokkeh](https://github.com/RamiOkkeh/RamiOkkeh/blob/main/header.png)](http://ec2-54-221-228-33.compute-1.amazonaws.com/)
 
-<br/>
 <br/>
 
 - 🔭 I’m currently working on [Sudoku](https://github.com/PurpleWitch/Sudoku)
@@ -16,11 +15,11 @@
 <h3 align="left">My Links:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ramiokkeh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ramiokkeh" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/RamiOkkeh" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" alt="ramiokkeh" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/RamiOkkeh" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" alt="ramiokkeh" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/ramiokkeh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ramiokkeh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ramiokkeh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ramiokkeh" height="30" width="40" /></a>
 </p>
-<a href="https://drive.google.com/file/d/1krpiqvjt6ArlFzhI13XRfqOLY1L15lPv/view?usp=sharing" target="blank"><img align="center" src="https://img.icons8.com/ios/452/parse-from-clipboard.png" alt="ramiokkeh" height="40" width="30" /></a>
+<a href="https://drive.google.com/file/d/1krpiqvjt6ArlFzhI13XRfqOLY1L15lPv/view?usp=sharing" target="blank"><img align="center" src="https://img.icons8.com/ios/452/parse-from-clipboard.png" alt="ramiokkeh" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
