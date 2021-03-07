@@ -15,7 +15,7 @@
 <h3 align="left">My Links:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ramiokkeh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ramiokkeh" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/RamiOkkeh" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" alt="ramiokkeh" height="40" width="40" /></a>
+<a href="https://www.codewars.com/users/RamiOkkeh" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" alt="ramiokkeh" height="35" width="35" /></a>
 <a href="https://www.hackerrank.com/ramiokkeh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ramiokkeh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ramiokkeh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ramiokkeh" height="30" width="40" /></a>
 </p>
