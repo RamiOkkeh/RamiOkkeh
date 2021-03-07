@@ -1,4 +1,4 @@
-<h1>Hello!, I'm Rami 👋</h1>
+<h1 style={fontSize: '100px'}>Hello! I'm Rami 👋</h1>
 
 [![Social banner for ramiokkeh](https://github.com/RamiOkkeh/RamiOkkeh/blob/main/header.png)](http://ec2-54-221-228-33.compute-1.amazonaws.com/)
 
