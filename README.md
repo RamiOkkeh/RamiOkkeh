@@ -1,6 +1,6 @@
 <h1>Hello!, I'm Rami 👋</h1>
 
-[![Social banner for ramiokkeh](https://github.com/ramiokkeh/ramiokkeh/header.png)](http://ec2-54-221-228-33.compute-1.amazonaws.com/)
+[![Social banner for ramiokkeh](https://github.com/RamiOkkeh/RamiOkkeh/blob/main/header.png)](http://ec2-54-221-228-33.compute-1.amazonaws.com/)
 
 - 🔭 I’m currently working on [Sudoku](https://github.com/PurpleWitch/Sudoku)
 
