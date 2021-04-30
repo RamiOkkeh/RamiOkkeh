@@ -4,10 +4,6 @@
 
 <br/>
 
-- 🔭 I’m currently working on [Sudoku](https://github.com/PurpleWitch/Sudoku)
-
-- 🌱 I’m currently learning **Vue.js and Python**
-
 - 👨‍💻 You can find my portfolio at [http://ec2-54-221-228-33.compute-1.amazonaws.com/](http://ec2-54-221-228-33.compute-1.amazonaws.com/)
 
 - 📫 Contact me at **ramiokkeh@gmail.com**
